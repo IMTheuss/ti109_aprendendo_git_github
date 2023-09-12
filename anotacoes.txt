@@ -13,3 +13,5 @@ git add .
 -- adicionar um comentario referente ao conjuntos de modificacoes realzadas
 
 git commit -a  -m
+
+-- criando mais um commit no codigo
